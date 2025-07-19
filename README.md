@@ -10,27 +10,37 @@
 As a visionary technologist, I thrive at the intersection of code, creativity, and real-world impact. I architect scalable systems, integrate AI-driven solutions, and design user experiences that are intuitive and powerful. My passion lies in transforming complex ideas into elegant, efficient tools—fostering innovation through clean architecture, collaborative workflows, and a relentless pursuit of excellence.
 
 ```python
-class SyntaxSavvy504:
+class AvixWz:
     def __init__(self):
-        self.core_values = ["Innovation", "Precision Engineering", "Collaborative Excellence"]
-        self.tech_ecosystem = {
-            "Core Languages": ["Python", "JavaScript", "TypeScript", "Go"],
-            "Frameworks & Libraries": ["React", "Node.js", "FastAPI", "TensorFlow"],
-            "DevOps & Tools": ["Docker", "Kubernetes", "Terraform", "GitHub Actions"],
-            "Emerging Tech": ["AI/ML", "Web3", "Cloud-Native Architectures"]
+        self.core_values = ["Keep it simple", "Code > Talk", "Google first, panic later"]
+        self.tech_stack = {
+            "Languages": ["HTML 🧱", "CSS 🎨", "JavaScript ✨", "Python 🐍"],
+            "Tools": ["Git 🧬", "VS Code 🧠", "Node.js 🌳", "MongoDB 🍃"]
         }
-        self.guiding_principle = "Code with purpose, design for humans."
+        self.guiding_principle = "Write code that runs, then make it pretty."
 
-    def innovate(self, challenge):
-        return f"Turning {challenge} into an opportunity for groundbreaking solutions."
+    def innovate(self, bug):
+        if bug:
+            return f"Bug spotted: {bug}. Turning it into a feature... or blaming the intern 🧑‍💻"
+        return "Building something awesome with way too many console.log()s 🚀"
 
     def connect(self):
-        return "Open to collaborations that push technological boundaries!"
+        return "Let's collaborate and push code like it's Friday 4:59 PM! 💥"
 ```
 🧠 Currently Exploring
 Pushing the envelope with cutting-edge tech to solve tomorrow's challenges today:
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
 
 🔍 My Comprehensive Toolbox
 Equipped with a versatile arsenal for building resilient, high-performance applications:
