@@ -35,7 +35,9 @@ Pushing the envelope with cutting-edge tech to solve tomorrow's challenges today
 🔍 My Comprehensive Toolbox
 Equipped with a versatile arsenal for building resilient, high-performance applications:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,go,react,nodejs,express,fastapi,tensorflow,html,css,git,docker,kubernetes,terraform,vscode,figma,postman,aws,gcp,azure" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,nodejs,mongodb,python" />
+</p>
 
 ## 📈 GitHub Analytics & Insights
 A snapshot of my coding journey, contributions, and language preferences:
