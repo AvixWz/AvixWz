@@ -37,10 +37,16 @@ Equipped with a versatile arsenal for building resilient, high-performance appli
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,go,react,nodejs,express,fastapi,tensorflow,html,css,git,docker,kubernetes,terraform,vscode,figma,postman,aws,gcp,azure" /> </p>
 
-📈 GitHub Analytics & Insights
+## 📈 GitHub Analytics & Insights
 A snapshot of my coding journey, contributions, and language preferences:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SyntaxSavvy504&show_icons=true&theme=radical&hide=prs,issues&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=SyntaxSavvy504&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSavvy504&layout=compact&theme=radical&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvixWz&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvixWz&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
 🌐 Let's Connect & Collaborate
 Eager to discuss innovative ideas, contribute to open-source projects, or tackle complex challenges? Let's connect!
 
