@@ -1,14 +1,23 @@
+<!-- ✨ AvixWz | Futuristic GitHub Profile README -->
+
+<!-- Dynamic Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=500&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+AvixWz+%F0%9F%91%8B;Visionary+Technologist+%7C+Eternal+Innovator;Let's+Forge+the+Future+of+Tech+Together" alt="Dynamic Greeting SVG" />
 </h1>
 
+<!-- Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Tech Innovation GIF" style="border-radius: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Tech Innovation GIF" style="border-radius:20px; box-shadow:0 6px 12px rgba(0,0,0,0.3);" />
 </p>
 
-## 🚀 About Me
-As a visionary technologist, I thrive at the intersection of code, creativity, and real-world impact. I architect scalable systems, integrate AI-driven solutions, and design user experiences that are intuitive and powerful. My passion lies in transforming complex ideas into elegant, efficient tools—fostering innovation through clean architecture, collaborative workflows, and a relentless pursuit of excellence.
+---
 
+## 🚀 About Me
+As a visionary technologist, I thrive at the intersection of **code, creativity, and real-world impact**.  
+I architect scalable systems, integrate **AI-driven solutions**, and design user experiences that are intuitive and powerful.  
+My passion lies in transforming complex ideas into elegant, efficient tools—fostering innovation through clean architecture, collaborative workflows, and a relentless pursuit of excellence.
+
+### 💡 Quick Snapshot
 ```python
 class AvixWz:
     def __init__(self):
@@ -27,8 +36,11 @@ class AvixWz:
     def connect(self):
         return "Let's collaborate and push code like it's Friday 4:59 PM! 💥"
 ```
-🧠 Currently Exploring
-Pushing the envelope with cutting-edge tech to solve tomorrow's challenges today:
+
+---
+
+## 🧠 Currently Exploring
+Pushing the envelope with **cutting-edge tech** to solve tomorrow's challenges today:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,13 +53,16 @@ Pushing the envelope with cutting-edge tech to solve tomorrow's challenges today
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
-🔍 My Comprehensive Toolbox
-Equipped with a versatile arsenal for building resilient, high-performance applications:
+## 🔍 My Comprehensive Toolbox
+Equipped with a versatile arsenal for building **resilient, high-performance applications**:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,nodejs,mongodb,python" />
 </p>
+
+---
 
 ## 📈 GitHub Analytics & Insights
 A snapshot of my coding journey, contributions, and language preferences:
@@ -58,8 +73,47 @@ A snapshot of my coding journey, contributions, and language preferences:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</p>
 
-🌐 Let's Connect & Collaborate
-Eager to discuss innovative ideas, contribute to open-source projects, or tackle complex challenges? Let's connect!
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvixWz&theme=react-dark" alt="Activity Graph" />
+</p>
 
-<p align="center"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/SyntaxSavvy504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+the+future.&fontSize=24&fontColor=white&animation=fadeIn" /> </p> ```
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AvixWz" alt="Visitor Count" />
+</p>
+
+---
+
+<details>
+<summary>🌟 Fun Zone (click to expand)</summary>
+
+- 🎧 **Debugging Companion:** Lo-fi Beats & Coffee ☕  
+- 🕹️ **Hobby:** Building tiny browser games nobody asked for  
+- 💡 **Motto:** “Move fast. Refactor later.”
+</details>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+Eager to discuss innovative ideas, contribute to **open-source projects**, or tackle complex challenges?  
+Let’s connect!
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SyntaxSavvy504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+the+future.&fontSize=24&fontColor=white&animation=fadeIn" />
+</p>
