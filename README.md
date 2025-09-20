@@ -73,10 +73,11 @@ A snapshot of my coding journey, contributions, and language preferences:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- 3D Contribution Graph -->
+## 📈 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
+
 
 <!-- Activity Graph -->
 <p align="center">
