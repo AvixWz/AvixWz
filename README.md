@@ -64,7 +64,7 @@ Equipped with a versatile arsenal for building **resilient, high-performance app
 
 ---
 
-## 📈 GitHub Analytics & Insights
+<!-- ## 📈 GitHub Analytics & Insights
 A snapshot of my coding journey, contributions, and language preferences:
 
 <p align="center">
@@ -76,7 +76,7 @@ A snapshot of my coding journey, contributions, and language preferences:
 ## 📈 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</p>
+</p> -->
 
 
 <!-- Activity Graph -->
