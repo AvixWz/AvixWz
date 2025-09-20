@@ -71,7 +71,7 @@ A snapshot of my coding journey, contributions, and language preferences:
   <img src="https://github-readme-stats.vercel.app/api?username=AvixWz&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AvixWz&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 ## 📈 3D Contribution Graph
 <p align="center">
