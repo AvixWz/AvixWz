@@ -2,7 +2,7 @@
 
 <!-- Dynamic Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=500&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+AvixWz+%F0%9F%91%8B;Visionary+Technologist+%7C+Eternal+Innovator;Let's+Forge+the+Future+of+Tech+Together" alt="Dynamic Greeting SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=500&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+AvixWz+%F0%9F%91%8B; Visionary+Technologist+%7C+Eternal+Innovator;Let's+Forge+the+Future+of+Tech+Together" alt="Dynamic Greeting SVG" />
 </h1>
 
 <!-- Hero Animation -->
@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 About Me
-As a visionary technologist, I thrive at the intersection of **code, creativity, and real-world impact**.  
-I architect scalable systems, integrate **AI-driven solutions**, and design user experiences that are intuitive and powerful.  
-My passion lies in transforming complex ideas into elegant, efficient tools—fostering innovation through clean architecture, collaborative workflows, and a relentless pursuit of excellence.
+I am a **visionary technologist** who thrives at the intersection of **code, creativity, and real-world impact**.  
+I specialize in architecting **scalable systems**, integrating **AI-driven solutions**, and designing **intuitive user experiences**.  
+My mission is to transform complex ideas into elegant, efficient tools—fueling innovation through clean architecture, collaborative workflows, and relentless excellence.
 
 ### 💡 Quick Snapshot
 ```python
@@ -29,9 +29,7 @@ class AvixWz:
         self.guiding_principle = "Write code that runs, then make it pretty."
 
     def innovate(self, bug):
-        if bug:
-            return f"Bug spotted: {bug}. Turning it into a feature... or blaming the intern 🧑‍💻"
-        return "Building something awesome with way too many console.log()s 🚀"
+        return f"Bug spotted: {bug}. Turning it into a feature... or blaming the intern 🧑‍💻" if bug else "Building something awesome with way too many console.log()s 🚀"
 
     def connect(self):
         return "Let's collaborate and push code like it's Friday 4:59 PM! 💥"
@@ -40,7 +38,7 @@ class AvixWz:
 ---
 
 ## 🧠 Currently Exploring
-Pushing the envelope with **cutting-edge tech** to solve tomorrow's challenges today:
+Experimenting with **cutting-edge technology** to solve tomorrow's challenges today:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,7 +54,7 @@ Pushing the envelope with **cutting-edge tech** to solve tomorrow's challenges t
 ---
 
 ## 🔍 My Comprehensive Toolbox
-Equipped with a versatile arsenal for building **resilient, high-performance applications**:
+A versatile arsenal for building **resilient, high-performance applications**:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,nodejs,mongodb,python" />
@@ -64,20 +62,21 @@ Equipped with a versatile arsenal for building **resilient, high-performance app
 
 ---
 
-<!-- ## 📈 GitHub Analytics & Insights
+## 📊 GitHub Analytics & Insights
 A snapshot of my coding journey, contributions, and language preferences:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AvixWz&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AvixWz&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
-</p> -->
+</p>
+
+---
 
 ## 📈 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</p> -->
-
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -108,7 +107,7 @@ Let’s connect!
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SyntaxSavvy504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AvixWz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 </p>
