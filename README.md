@@ -1,28 +1,26 @@
-<!-- 🚀 AvixWz | Next-Gen Futuristic GitHub Profile README -->
-
 <!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=700&color=00FFDD&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+AvixWz+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Visionary;Innovating+with+AI%2C+Code%2C+%26+Creativity" alt="Dynamic Typing Animation" />
 </h1>
 
-<!-- Hero Animation -->
-<!-- 🚀 Hero Animation -->
+<!-- 🚀 Hero Animation (Pill Shape) -->
 <p align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="400"
+    width="450"
     alt="Coding GIF"
     style="
-      border-radius: 30px;
+      border-radius: 9999px; /* Makes the shape perfectly pill-like */
       border: 3px solid #00FFDD;
-      box-shadow: 0 0 25px rgba(0, 255, 221, 0.7),
-                  0 0 45px rgba(0, 255, 221, 0.5);
+      box-shadow: 0 0 25px rgba(0,255,221,0.6),
+                  0 0 50px rgba(0,255,221,0.4);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 40px rgba(0,255,221,0.9), 0 0 60px rgba(0,255,221,0.7)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,221,0.7), 0 0 45px rgba(0,255,221,0.5)';"
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 40px rgba(0,255,221,0.8), 0 0 70px rgba(0,255,221,0.6)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,221,0.6), 0 0 50px rgba(0,255,221,0.4)';"
   />
 </p>
+
 
 
 ---
