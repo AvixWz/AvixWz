@@ -1,44 +1,70 @@
-<!-- ✨ AvixWz | Futuristic GitHub Profile README -->
+<!-- 🚀 AvixWz | Next-Gen Futuristic GitHub Profile README -->
 
-<!-- Dynamic Typing Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=500&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+AvixWz+%F0%9F%91%8B; Visionary+Technologist+%7C+Eternal+Innovator;Let's+Forge+the+Future+of+Tech+Together" alt="Dynamic Greeting SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=700&color=00FFDD&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+AvixWz+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Visionary;Innovating+with+AI%2C+Code%2C+%26+Creativity" alt="Dynamic Typing Animation" />
 </h1>
 
 <!-- Hero Animation -->
+<!-- 🚀 Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Tech Innovation GIF" style="border-radius:20px; box-shadow:0 6px 12px rgba(0,0,0,0.3);" />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="400"
+    alt="Coding GIF"
+    style="
+      border-radius: 30px;
+      border: 3px solid #00FFDD;
+      box-shadow: 0 0 25px rgba(0, 255, 221, 0.7),
+                  0 0 45px rgba(0, 255, 221, 0.5);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 40px rgba(0,255,221,0.9), 0 0 60px rgba(0,255,221,0.7)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,221,0.7), 0 0 45px rgba(0,255,221,0.5)';"
+  />
 </p>
+
 
 ---
 
-## 🚀 About Me
-I am a **visionary technologist** who thrives at the intersection of **code, creativity, and real-world impact**.  
-I specialize in architecting **scalable systems**, integrating **AI-driven solutions**, and designing **intuitive user experiences**.  
-My mission is to transform complex ideas into elegant, efficient tools—fueling innovation through clean architecture, collaborative workflows, and relentless excellence.
+## 🌌 About Me
+I am a **future-driven technologist** passionate about blending **artificial intelligence**, **scalable architecture**, and **immersive user experiences**.  
+From building high-performance backends to crafting sleek frontends, I thrive on **transforming ambitious ideas into reality**.  
+My philosophy: **"Innovate boldly, automate smartly, and code elegantly."**
 
-### 💡 Quick Snapshot
+### ⚡ Quick Dev Snapshot
 ```python
 class AvixWz:
     def __init__(self):
-        self.core_values = ["Keep it simple", "Code > Talk", "Google first, panic later"]
+        self.core_values = [
+            "Simplicity is power ⚡",
+            "Code speaks louder than words 💻",
+            "Fail fast, learn faster 🚀"
+        ]
         self.tech_stack = {
-            "Languages": ["HTML 🧱", "CSS 🎨", "JavaScript ✨", "Python 🐍"],
-            "Tools": ["Git 🧬", "VS Code 🧠", "Node.js 🌳", "MongoDB 🍃"]
+            "Languages": ["HTML5 🧱", "CSS3 🎨", "JavaScript ✨", "Python 🐍"],
+            "Frameworks": ["Node.js 🌳", "React ⚛️", "Express ⚡"],
+            "Databases": ["MongoDB 🍃", "Firebase 🔥"],
+            "Tools": ["Git 🧬", "VS Code 🧠", "Docker 🐳"]
         }
-        self.guiding_principle = "Write code that runs, then make it pretty."
+        self.mantra = "Build. Break. Fix. Repeat."
 
-    def innovate(self, bug):
-        return f"Bug spotted: {bug}. Turning it into a feature... or blaming the intern 🧑‍💻" if bug else "Building something awesome with way too many console.log()s 🚀"
+    def innovate(self, idea):
+        return f"Turning {idea} into production-ready magic ✨"
 
     def connect(self):
-        return "Let's collaborate and push code like it's Friday 4:59 PM! 💥"
+        return "Collaboration fuels innovation 💡"
 ```
 
 ---
 
-## 🧠 Currently Exploring
-Experimenting with **cutting-edge technology** to solve tomorrow's challenges today:
+## 🧠 Tech Frontier I'm Exploring
+Currently delving into the **future of tech** with projects involving:
+
+- 🤖 **Artificial Intelligence & Machine Learning**  
+- 🌐 **Next.js & Modern Frontend Frameworks**  
+- ☁️ **Cloud-Native Architectures (AWS, GCP)**  
+- 🔒 **Cybersecurity & Ethical Hacking**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,41 +72,39 @@ Experimenting with **cutting-edge technology** to solve tomorrow's challenges to
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🔍 My Comprehensive Toolbox
-A versatile arsenal for building **resilient, high-performance applications**:
-
+## 🛠️ Advanced Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,nodejs,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,docker,git,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics & Insights
-A snapshot of my coding journey, contributions, and language preferences:
+An ever-evolving look at my **contributions, growth, and languages**:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvixWz&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvixWz&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvixWz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvixWz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvixWz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 3D Contribution Graph
+## 🌈 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvixWz&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvixWz&theme=github-compact" alt="Activity Graph" />
 </p>
 
 <!-- Visitor Counter -->
@@ -91,18 +115,18 @@ A snapshot of my coding journey, contributions, and language preferences:
 ---
 
 <details>
-<summary>🌟 Fun Zone (click to expand)</summary>
+<summary>🎯 Fun Zone (Click to Expand)</summary>
 
-- 🎧 **Debugging Companion:** Lo-fi Beats & Coffee ☕  
-- 🕹️ **Hobby:** Building tiny browser games nobody asked for  
-- 💡 **Motto:** “Move fast. Refactor later.”
+- 🎶 **Coding Playlist:** Synthwave & Chill Beats 🎧  
+- 🕹️ **Hobby:** Creating indie web games no one asked for  
+- 💡 **Motto:** “Dream in code, deploy with confidence.”
 </details>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
-Eager to discuss innovative ideas, contribute to **open-source projects**, or tackle complex challenges?  
-Let’s connect!
+## 🌐 Let's Connect & Build the Future
+Open to **collaborations, open-source contributions, and cutting-edge projects**.  
+Let’s connect and shape the next era of technology together!
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -115,5 +139,5 @@ Let’s connect!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+the+future.&fontSize=24&fontColor=white&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks+for+stopping+by!+Let's+innovate+together.&fontSize=26&fontColor=white&animation=twinkling" />
 </p>
